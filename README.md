@@ -1,1 +1,1 @@
-Experimental project for exploring NExtJS ⚒️
+Experimental project for exploring NextJS ⚒️
